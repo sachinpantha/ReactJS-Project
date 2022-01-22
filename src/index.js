@@ -39,7 +39,7 @@ const Book=(props)=>{ //Props destructuring
      <img src={image} width="195px" height="300px" alt="" />
      <h3 style={{marginTop:'0.5rem',fontSize:"1.2rem",color:"red"}}>{title}</h3>
      <h4 style={{fontSize:"0.75rem"}}>{author}</h4>
-     <button type="button" className="btn btn-outline-success" onClick={()=>window.location=location} target="_blank">Read Now!</button>
+     <a type="button" className="btn btn-outline-success" href={location} target="_blank">Read Now!</a>
     </article>
   );
 }

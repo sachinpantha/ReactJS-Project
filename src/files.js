@@ -19,7 +19,7 @@ const books=
   image:'https://covers.zlibcdn2.com/covers299/books/6c/d7/01/6cd7019852b43e6e67f5b21d8a60b1db.jpg',
   title: 'The subtle art of not giving a f*ck',
   author: 'Mark manson', 
-  location: 'https://www.docdroid.net/KyoHFx5/the-subtle-art-of-not-giving-a-fuck-pdf#page=8',
+  location: 'https://pdf.zlibcdn.com/dtoken/b6192fe81687d7cc7f3634dbfe760c56/The_Subtle_Art_of_Not_Giving_a_Fuck_by_Mark_Manson_3699380_(z-lib.org).pdf',
 
 },
 {
