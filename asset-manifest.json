@@ -1,13 +1,23 @@
 {
   "files": {
-    "main.css": "/ReactJS-Project/static/css/main.e3411ff3.css",
-    "main.js": "/ReactJS-Project/static/js/main.792c73cf.js",
+    "main.css": "/ReactJS-Project/static/css/main.c72c2673.css",
+    "main.js": "/ReactJS-Project/static/js/main.a5af30e9.js",
+    "static/media/rdpd.pdf": "/ReactJS-Project/static/media/rdpd.bf404f5cb9d55c763eac.pdf",
+    "static/media/TII.pdf": "/ReactJS-Project/static/media/TII.f35f2fe90f7dc76dddc8.pdf",
+    "static/media/SMT.pdf": "/ReactJS-Project/static/media/SMT.0861018d93155b2084a7.pdf",
+    "static/media/TLL.pdf": "/ReactJS-Project/static/media/TLL.cb4c7eabedb919cd84f3.pdf",
+    "static/media/SWW.pdf": "/ReactJS-Project/static/media/SWW.57df8417cd4d839425ab.pdf",
+    "static/media/LEL.pdf": "/ReactJS-Project/static/media/LEL.04ff59322b828db1f931.pdf",
+    "static/media/TSAONGAF.pdf": "/ReactJS-Project/static/media/TSAONGAF.eba27e14fa4ad27546a2.pdf",
+    "static/media/TMIY.pdf": "/ReactJS-Project/static/media/TMIY.21f1d2c6f395b3569d7e.pdf",
+    "static/media/GPP.pdf": "/ReactJS-Project/static/media/GPP.1db4c99599efbcaba57e.pdf",
+    "static/media/finlogo.png": "/ReactJS-Project/static/media/finlogo.9c832ae13ab59440243f.png",
     "index.html": "/ReactJS-Project/index.html",
-    "main.e3411ff3.css.map": "/ReactJS-Project/static/css/main.e3411ff3.css.map",
-    "main.792c73cf.js.map": "/ReactJS-Project/static/js/main.792c73cf.js.map"
+    "main.c72c2673.css.map": "/ReactJS-Project/static/css/main.c72c2673.css.map",
+    "main.a5af30e9.js.map": "/ReactJS-Project/static/js/main.a5af30e9.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3411ff3.css",
-    "static/js/main.792c73cf.js"
+    "static/css/main.c72c2673.css",
+    "static/js/main.a5af30e9.js"
   ]
 }
