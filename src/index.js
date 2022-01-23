@@ -3,9 +3,13 @@ import ReactDom from 'react-dom'
 import './index.css'
 import books from './files'
 import Typewriter from "typewriter-effect"
+import ImageFile from './images/finlogo.png'
 const Booklist=()=>{
   return(
     <div>
+      <div id="Logo">
+        <Lg/>
+      </div>
     <div id='type'>
     <App/>
     </div>
@@ -19,6 +23,13 @@ const Booklist=()=>{
         })
       }
     </section>
+    </div>
+  );
+}
+function Lg(){
+  return(
+    <div className='logo'>
+      <img src={ImageFile} width="300px" alt="" />
     </div>
   );
 }

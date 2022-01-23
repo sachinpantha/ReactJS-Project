@@ -23,6 +23,10 @@ body{
   img{
     margin-left: 3rem;
   }
+  #Logo{
+    display: grid;
+    place-items: center;
+  }
 }
 article{
   background-color: white;
@@ -43,4 +47,8 @@ img{
   font-size: 1.5rem;
   font-weight: bold;
   color: white;
+}
+#Logo{
+  display: grid;
+  place-items: center;
 }
